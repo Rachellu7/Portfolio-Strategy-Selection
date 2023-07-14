@@ -1,1 +1,1 @@
-# Portfolio_Strategy_Selection
+### This project compares 7 different portfolio investment strategies.
